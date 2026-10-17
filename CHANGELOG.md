@@ -4,6 +4,18 @@
 
 [← 返回 MOD 页](./README.md)
 
+## v3.5 · 修复版（普通版）— 2026-10-17
+
+- 🐛 **修复** — **5 个实体整只加载失败**。实体文件里残留了 `must_see_note` 字段
+  （有人把说明写成了 JSON 字段：`"must_see_note": "DSH 2026-10-10：改为 false……"`），
+  引擎不认这个成员，导致 `zombie` / `drowned` / `husk` / `zombie_villager` / `zombie_villager_v2`
+  全部解析失败、在游戏里根本不存在。
+  已删除该字段（`must_see` 本来就是 `false`，行为不变）。
+- 🔧 **变更** — 更换 BP/RP UUID，版本号由 `1.0.0` 统一为 `3.5.0`（与文件名 v3.5 对齐）。
+- 🧪 **验证** — BDS 1.26.52.3 真机：实体加载失败 **5 → 0**，ZombieBrain 正常运行，
+  自定义命令 `ze:zombieai` / `ze:bloodmoon` / `ze:zombie` 注册成功。
+- 📌 **说明** — 这是「普通版」旧版分支，与 v4.x「扩展版」并存。
+
 ## v4.0.3 — 2026-10-17
 
 - 🐛 **修复** — **无损字段转换**（消除 29 条 schema 错误）：`behavior.ranged_attack` 的 `attack_range` / `attack_interval` → `attack_radius` + `attack_interval_min/max`；`random_search_and_dig` 与 `avoid_*` 的区间对象 → `range_min/range_max`。两种写法都是 1.21.60 与 1.26 原版共用的规范形式。
