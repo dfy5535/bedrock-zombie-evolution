@@ -1,0 +1,56 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "僵尸纪元 · 行为包 v4.0 扩展版",
+    "description": "智能僵尸生态 + 扩展族群：僵尸系会追击/搭方块够高处/挖穿墙壁/群体包抄；骷髅系保持远程弓手（流浪者迟缓、沼骸中毒、Parched 虚弱），绝不挖不搭；猪灵、灾厄村民、末影人各有自己的战斗方式。\n【1.21.60 兼容版】最低支持 1.21.60（@minecraft/server 1.17.0）；已去除 2.x 专属 API 依赖，向上兼容 1.21.60+。",
+    "uuid": "23918460-8db1-4860-86ab-80b27a02a14e",
+    "version": [
+      4,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      60
+    ]
+  },
+  "modules": [
+    {
+      "description": "Zombie Evolution Universal Zombie Brain",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "8f7af159-a4a4-4d2b-a462-c723f3eba248",
+      "version": [
+        4,
+        0,
+        3
+      ],
+      "entry": "scripts/main.js"
+    },
+    {
+      "description": "Zombie Evolution data (entities / loot tables / spawn rules)",
+      "type": "data",
+      "uuid": "a7d6ff47-1063-49e6-8ecf-4711030a28f2",
+      "version": [
+        4,
+        0,
+        3
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.17.0"
+    },
+    {
+      "uuid": "616657d7-4ba6-4018-bb9d-8bed9053e83b",
+      "version": [
+        4,
+        0,
+        3
+      ]
+    }
+  ]
+}

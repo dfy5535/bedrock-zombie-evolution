@@ -1,0 +1,395 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 11200,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 8400,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 5880,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 2016,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 504,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_leggings",
+          "weight": 8000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_leggings",
+          "weight": 6000,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_leggings",
+          "weight": 4200,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_leggings",
+          "weight": 1440,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_leggings",
+          "weight": 360,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chainmail_leggings",
+          "weight": 8000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chainmail_leggings",
+          "weight": 6000,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chainmail_leggings",
+          "weight": 4200,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chainmail_leggings",
+          "weight": 1440,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:chainmail_leggings",
+          "weight": 360,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 9600,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 7200,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 5040,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 1728,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_leggings",
+          "weight": 432,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 3200,
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {
+                  "id": "binding",
+                  "level": 1
+                },
+                {
+                  "id": "vanishing",
+                  "level": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 2400,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {
+                  "id": "binding",
+                  "level": 1
+                },
+                {
+                  "id": "vanishing",
+                  "level": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 1680,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {
+                  "id": "binding",
+                  "level": 1
+                },
+                {
+                  "id": "vanishing",
+                  "level": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 576,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {
+                  "id": "binding",
+                  "level": 1
+                },
+                {
+                  "id": "vanishing",
+                  "level": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_leggings",
+          "weight": 144,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {
+                  "id": "binding",
+                  "level": 1
+                },
+                {
+                  "id": "vanishing",
+                  "level": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

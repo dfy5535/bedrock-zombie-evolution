@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_4_elite.json",
+          "weight": 550
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_3_elite.json",
+          "weight": 250
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_2_elite.json",
+          "weight": 130
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_1_elite.json",
+          "weight": 50
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_0.json",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

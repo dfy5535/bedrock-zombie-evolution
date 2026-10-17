@@ -1,0 +1,201 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:stone_sword",
+          "weight": 4000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stone_sword",
+          "weight": 3000,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stone_sword",
+          "weight": 2100,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stone_sword",
+          "weight": 720,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stone_sword",
+          "weight": 180,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_sword",
+          "weight": 18000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_sword",
+          "weight": 13500,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_sword",
+          "weight": 9450,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_sword",
+          "weight": 3240,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_sword",
+          "weight": 810,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 18000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 13500,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 9450,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 3240,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond_sword",
+          "weight": 810,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

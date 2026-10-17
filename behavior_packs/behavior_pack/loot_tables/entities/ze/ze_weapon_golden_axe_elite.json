@@ -1,0 +1,73 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:golden_axe",
+          "weight": 26000,
+          "functions": []
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_axe",
+          "weight": 19500,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_axe",
+          "weight": 13650,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_axe",
+          "weight": 4680,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:golden_axe",
+          "weight": 1170,
+          "functions": [
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            },
+            {
+              "function": "enchant_randomly"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

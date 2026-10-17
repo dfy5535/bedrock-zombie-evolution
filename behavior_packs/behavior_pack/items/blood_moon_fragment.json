@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ze:blood_moon_fragment"
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": {
+          "default": "ze_blood_moon_fragment"
+        }
+      },
+      "minecraft:display_name": {
+        "value": "item.ze:blood_moon_fragment.name"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "僵尸纪元 · 资源包 v4.0 扩展版",
+    "description": "僵尸纪元的贴图、模型与音效资源（v4.0 扩展版）。\n【1.21.60 兼容版】最低支持 1.21.60（@minecraft/server 1.17.0）；已去除 2.x 专属 API 依赖，向上兼容 1.21.60+。",
+    "uuid": "616657d7-4ba6-4018-bb9d-8bed9053e83b",
+    "version": [
+      4,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      60
+    ]
+  },
+  "modules": [
+    {
+      "description": "Zombie Evolution resources",
+      "type": "resources",
+      "uuid": "a300674f-4a38-436e-bf76-8e3eab395601",
+      "version": [
+        4,
+        0,
+        3
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "23918460-8db1-4860-86ab-80b27a02a14e",
+      "version": [
+        4,
+        0,
+        3
+      ]
+    }
+  ]
+}

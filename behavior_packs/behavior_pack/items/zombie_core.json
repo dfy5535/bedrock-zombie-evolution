@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ze:zombie_core"
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": {
+          "default": "ze_zombie_core"
+        }
+      },
+      "minecraft:display_name": {
+        "value": "item.ze:zombie_core.name"
+      }
+    }
+  }
+}

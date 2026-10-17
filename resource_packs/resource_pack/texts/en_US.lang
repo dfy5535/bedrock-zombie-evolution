@@ -1,0 +1,15 @@
+## Zombie Evolution · English · v4.0 Extended
+pack.name=Zombie Evolution v4.0 Extended
+pack.description=Smart monster ecology. Zombies hunt you, build up to reach you, dig through your walls and flank in groups. Skeletons stay ranged archers (Stray slows, Bogged poisons, Parched weakens) and never dig or build. Piglins, illagers and Endermen each fight their own way.
+
+## Entities
+entity.ze:test_subject.name=ZE Test Subject
+
+## Items
+item.ze:blood_moon_fragment.name=Blood Moon Fragment
+item.ze:zombie_core.name=Zombie Core
+item.ze:zombie_sigil.name=Zombie Sigil
+
+## Blood Moon
+ze.bloodmoon.start=§cThe Blood Moon rises - the horde grows fiercer
+ze.bloodmoon.end=§7The Blood Moon fades

@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_4_day_41_plus.json",
+          "weight": 550
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_3_day_41_plus.json",
+          "weight": 250
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_2_day_41_plus.json",
+          "weight": 130
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_1_day_41_plus.json",
+          "weight": 50
+        },
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_set_0.json",
+          "weight": 20
+        }
+      ]
+    }
+  ]
+}

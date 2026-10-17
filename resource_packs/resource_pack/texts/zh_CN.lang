@@ -1,0 +1,15 @@
+## 僵尸纪元 · 简体中文 · v4.0 扩展版
+pack.name=僵尸纪元 v4.0 扩展版
+pack.description=智能怪物生态：僵尸系会追击、会搭方块够到高处的你、会挖穿墙壁、会群体包抄；骷髅系保持远程弓手（流浪者迟缓箭、沼骸中毒箭、Parched 虚弱箭），绝不挖墙也不搭方块；猪灵、灾厄村民与末影人各有自己的打法。
+
+## 实体
+entity.ze:test_subject.name=僵尸纪元·测试对象
+
+## 物品
+item.ze:blood_moon_fragment.name=血月碎片
+item.ze:zombie_core.name=僵尸核心
+item.ze:zombie_sigil.name=僵尸符记
+
+## 血月提示
+ze.bloodmoon.start=§c血月降临 —— 僵尸变得更快更凶
+ze.bloodmoon.end=§7血月退去

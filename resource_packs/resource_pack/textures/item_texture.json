@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "zombie_evolution",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ze_blood_moon_fragment": {
+      "textures": [
+        "textures/items/ze_blood_moon_fragment"
+      ]
+    },
+    "ze_zombie_core": {
+      "textures": [
+        "textures/items/ze_zombie_core"
+      ]
+    },
+    "ze_zombie_sigil": {
+      "textures": [
+        "textures/items/ze_zombie_sigil"
+      ]
+    }
+  }
+}

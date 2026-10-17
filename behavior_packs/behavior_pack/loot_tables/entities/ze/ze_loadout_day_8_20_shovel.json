@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_armor_day_8_20.json",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "loot_tables/entities/ze/ze_weapon_shovel_day_8_20.json",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
