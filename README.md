@@ -59,6 +59,12 @@
 - 🐛 **修复** — **无损字段转换**（消除 29 条 schema 错误）：`behavior.ranged_attack` 的 `attack_range` / `attack_interval` → `attack_radius` + `attack_interval_min/max`；`random_search_and_dig` 与 `avoid_*` 的区间对象 → `range_min/range_max`。两种写法都是 1.21.60 与 1.26 原版共用的规范形式。
 - 🐛 **修复** — 实体补 `minecraft:pushable`，兼容 1.21.60（1.26.10+ 不再解析该组件，互不干扰）。
 
+## 兼容性说明
+
+逐项说明「每个功能依赖什么 API、对应哪个最低版本、能不能降、为什么」，以及真机验证证据：
+
+👉 **[COMPATIBILITY.md](./COMPATIBILITY.md)**
+
 ## 已知限制
 
 - **这是唯一有「代价」的 MOD**，因此提供双版本（见下）。
