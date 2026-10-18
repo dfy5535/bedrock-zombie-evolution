@@ -43,6 +43,18 @@
 
 也可以在 [Releases](https://github.com/dfy5535/bedrock-zombie-evolution/releases) 里按版本下载。
 
+## 语言版本（English / 日本語）
+
+每个语言**独立打包**：只带一份语言文件（`en_US.lang` / `ja_JP.lang`），包内**不含任何中文**（连代码注释都翻过），玩法与数值和中文版完全一致。
+
+| 语言 | 文件 |
+|---|---|
+| 🇨🇳 中文 | `dist/zombie-evolution_v4.1.0_1.26-full.mcaddon` |
+| 🇬🇧 English | `dist/zombie-evolution_v4.1.0_1.26-full-en.mcaddon` |
+| 🇯🇵 日本語 | `dist/zombie-evolution_v4.1.0_1.26-full-ja.mcaddon` |
+
+> 同一变体只装**一个语言**即可；三种语言的包 UUID 各不相同，可以并存但不建议同时启用。
+
 ## 安装
 
 1. 下载上面的 `.mcaddon` 文件
